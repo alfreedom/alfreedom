@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👨🏽‍💻 Mi name is Alfredo, I'm a computer engineer that enjoys to discover new tech things. I love design and program software, specially on server a desktop side. One of mi hobbies is play with digital electronics, I like program and design embedded systems in C or C++ and create intrefaces to control it localy or remotely.
+👨🏽‍💻 &nbsp;Mi name is Alfredo, I'm a computer engineer that enjoys to discover new tech things. I love design and program software, specially on server a desktop side. One of mi hobbies is play with digital electronics, I like program and design embedded systems in C or C++ and create intrefaces to control it localy or remotely.
 
 
 Here are some ideas to get you started:
