@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on making multitenant API template with FastAPI
+- 🔭 I’m currently working on... many things
 - 🌱 I’m currently learning go language programming
 - 👯 I’m looking to collaborate on Python projects
 - ⚡ Fun fact: electronics, embedded systems, and backend programming
